@@ -1,4 +1,4 @@
-# MPPM Project: Libra
+# Libra Project: Libra-Server
 
 Libra supports only [RainBoard](https://github.com/trieuthanhnc/MPPM-RainBoard)
 
